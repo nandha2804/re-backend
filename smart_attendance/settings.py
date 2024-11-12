@@ -161,6 +161,7 @@ AUTH_USER_MODEL = 'user.CustomUser'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # Add your React app's URL
+    "https://nandha2804.github.io",
 ]
 
 # Allow credentials (cookies, HTTP authentication) to be sent with requests
